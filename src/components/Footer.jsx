@@ -41,8 +41,8 @@ const Footer = () => {
 
               <div>
                 <h3 className="text-gray-700 uppercase dark:text-white">Portfolio</h3>
-                <a href="https://github.com/carinasylvester" className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline" target="_blank" rel="noopener noreferrer">GitHub</a>
-                <a href="https://carinasylvester.com" className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline" target="_blank" rel="noopener noreferrer">Personal Site</a>
+                <a href="https://github.com/clouds16" className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline" target="_blank" rel="noopener noreferrer">GitHub</a>
+                <a href="https://hector-alvarez-portfolio.herokuapp.com" className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline" target="_blank" rel="noopener noreferrer">Personal Site</a>
               </div>
             </div>
           </div>
@@ -52,7 +52,7 @@ const Footer = () => {
 
         <div>
           <p className="text-center text-gray-800 dark:text-white">© Trading Simulator {new Date().getFullYear()}</p>
-          <p className="text-center text-gray-600 dark:text-white"> created by Carina Sylvester</p>
+          <p className="text-center text-gray-600 dark:text-white"> Carina Sylvester , Hector Alvarez , Maukan Mir 2022 Capstone Maryville</p>
         </div>
       </div>
     </footer>
