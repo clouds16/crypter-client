@@ -14,6 +14,7 @@ import PurchasedStockDetails from "./components/PurchasedStockDetails/PurchasedS
 import Dashboard from "./components/Dashboard/Dashboard";
 import About from "./components/About";
 import { Route, Switch } from "react-router-dom";
+import './index.css'
 
 const App = () => {
   return (
