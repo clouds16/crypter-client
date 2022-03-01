@@ -51,7 +51,7 @@ const Footer = () => {
         <hr className="h-px my-6 bg-gray-300 border-none dark:bg-gray-700" />
 
         <div>
-          <p className="text-center text-gray-800 dark:text-white">© Trading Simulator {new Date().getFullYear()}</p>
+          <p className="text-center text-gray-800 dark:text-white">© Crypter Trading Simulator {new Date().getFullYear()}</p>
           <p className="text-center text-gray-600 dark:text-white"> Carina Sylvester , Hector Alvarez , Maukan Mir 2022 Capstone Maryville</p>
         </div>
       </div>
